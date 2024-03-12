@@ -1,0 +1,13 @@
+{
+    "name": "@ethereans-labs/kaiten-token",
+    "version": "1.0.0",
+    "description": "The first ERC20 token built on top of the SoS (Semantically Oriented Storage) architecture.",
+    "scripts": {
+    },
+    "keywords": [],
+    "author": "Ethereans Labs",
+    "license": "ISC",
+    "dependencies": {
+        "@ethereansos/farming-base": "git+https://github.com/EthereansOS/farming-base.git"
+    }
+}
